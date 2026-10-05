@@ -1,5 +1,7 @@
 Project Title: Native Android MP3 Player
+
 Subtitle / Role: Pet Project | Java, Android Studio, Android SDK
+
 Links: https://drive.google.com/drive/folders/1-dgsmkEaQxVeW5_uNSzxnkxcSJrDZ8Cg?usp=drive_link
 
 Description:
